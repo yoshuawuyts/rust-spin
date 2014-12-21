@@ -1,0 +1,22 @@
+# tmp files
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+# tmp folders
+pids/
+logs/
+results/
+coverage/
+
+# rust
+test
+index
+
+# osx
+.DS_Store

@@ -1,0 +1,15 @@
+[package]
+
+name       = "rust-spin"
+version    = "1.0.0"
+license    = "MIT"
+repository = "yoshuawuyts/rust-spin"
+readme     = "README.md"
+
+[lib]
+
+path = "index.rs"
+
+[test]
+
+path = "test.rs"
